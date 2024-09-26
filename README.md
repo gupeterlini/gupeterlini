@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🎯 Atualmente estou trabalhando na Termomecanica SA<br>🤝 Busco colaborar em projetos focados em .NET e desenvolvimento backend <br>🌱 Atualmente estou aprendendo sobre Cloud Computing<br>💬 Pergunte-me sobre Desenvolvimento backend com .NET<br>⚡ Curiosidade: Amante de Esportes e Video Games
+🎯 Atualmente estou trabalhando na Termomecanica SA<br>🤝 Busco colaborar em projetos focados em .NET e desenvolvimento backend <br>🌱 Atualmente estou aprendendo sobre Mensageria<br>💬 Pergunte-me sobre Desenvolvimento backend com .NET<br>⚡ Curiosidade: Amante de Esportes e Video Games
 
 
 ## 🌐 Socials:
